@@ -8,3 +8,5 @@ Built the frontend
 Add Custom Images
 Set up Mail
 Add product images
+
+####As at the time of this update, CEO is the one delaying the launch#####
